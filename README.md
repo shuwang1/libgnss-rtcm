@@ -1,6 +1,6 @@
 # libgnss-rtcm-swift
 
-[![CI](https://github.com/shuwang1/libgnss-rtcm-swift/actions/workflows/ci.yml/badge.svg)](https://github.com/shuwang1/libgnss-rtcm-swift/actions/workflows/ci.yml)
+[![CI](https://github.com/shuwang1/Orientable-libgnss-rtcm/actions/workflows/ci.yml/badge.svg)](https://github.com/shuwang1/Orientable-libgnss-rtcm/actions/workflows/ci.yml)
 [![Documentation](https://github.com/shuwang1/libgnss-rtcm-swift/actions/workflows/documentation.yml/badge.svg)](https://shuwang1.github.io/libgnss-rtcm-swift/documentation/rtcm)
 
 `libgnss-rtcm-swift` is a high-performance, type-safe Swift library for decoding and encoding RTCM (Radio Technical Commission for Maritime Services) messages. 
