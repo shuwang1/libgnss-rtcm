@@ -4,7 +4,7 @@
 
 `libgnss-rtcm-swift` is a high-performance, type-safe Swift library for decoding and encoding RTCM (Radio Technical Commission for Maritime Services) messages. 
 
-It is a modern Swift port of the core logic of a Orientable AI internal C project, optimized for real-time differential GNSS (DGNSS) and RTK applications.
+It is a modern Swift port of the core logic of a Orientable AI internal C/C++ project, optimized for real-time differential GNSS (DGNSS) and RTK applications.
 
 ## Philosophy
 
