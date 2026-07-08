@@ -1,6 +1,4 @@
 name: CI
-env:
-  MACOSX_DEPLOYMENT_TARGET: "15.4"
 
 on:
   push:
@@ -11,7 +9,7 @@ on:
 jobs:
   build-and-test:
     name: Build and Test (Swift 6.0)
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
    
     steps:
       - name: Checkout
