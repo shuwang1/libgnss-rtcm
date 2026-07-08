@@ -13,7 +13,7 @@ permissions:
 jobs:
   build-docs:
     name: Build and Deploy Documentation
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
